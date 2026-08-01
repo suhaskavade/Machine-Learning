@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter">
   <img src="https://img.shields.io/badge/Scikit--Learn-ML-red?style=for-the-badge&logo=scikitlearn">
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=for-the-badge&logo=pandas">
   <img src="https://img.shields.io/badge/NumPy-Numerical-green?style=for-the-badge&logo=numpy">
