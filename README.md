@@ -96,8 +96,10 @@ Machine-Learning/
 ### Regression
 - Linear Regression
 - Polynomial Regression
-- Decision Tree Regression
-- Random Forest Regression
+- Ridge Regression
+- Lasso Regression
+- Ridge_cv Regression
+- Lasso_cv  Regression
 
 ### Classification
 - Logistic Regression
