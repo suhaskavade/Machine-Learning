@@ -41,7 +41,6 @@ The goal of this repository is to strengthen my Machine Learning fundamentals an
 - Matplotlib
 - Seaborn
 - Scikit-Learn
-- Jupyter Notebook
 
 ---
 
